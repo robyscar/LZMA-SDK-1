@@ -66,6 +66,11 @@ License
 
 You can use 7-Zip on any computer, including a computer in a commercial organization. You don't need to register or pay for 7-Zip.
 
+p7zip is a quick port of 7z.exe and 7za.exe (command line version of 7zip, see www.7-zip.org) for Unix.
+7-Zip is a file archiver with highest compression ratio.
+Since 4.10, p7zip (like 7-zip) supports little-endian and big-endian machines.
+
+
 The main features of 7-Zip
 High compression ratio in 7z format with LZMA and LZMA2 compression
 Supported formats:
